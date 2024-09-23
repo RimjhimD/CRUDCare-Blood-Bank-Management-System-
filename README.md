@@ -104,11 +104,11 @@ hospital_representative_info: Contains information about hospital representative
 Authors
 This project was developed by:
 
-Mohammad Sakib (@MohammadSakib)
-Sharif1023 (@Sharif1023)
-Shadman02 (@Shadman02)
-Nishadul Islam (@NishadulIslam)
-Rimjhim Dey (@RimjhimDey)
+(@MohammadSakib)
+(@Sharif1023)
+(@Shadman02)
+(@NishadulIslam)
+(@RimjhimDey)
 
 Contributing
 If you'd like to contribute to this project, please follow these steps:
