@@ -109,11 +109,11 @@ CRUDCare uses the following key database tables:
 
 This project was developed by:
 
-- (@MohammadSakib)
-- (@Sharif1023)
-- (@Shadman02)
-- (@NishadulIslam)
-- (@RimjhimDey)
+- @Mohammad Sakib
+- @Sharif1023
+- @Shadman02
+- @Nishadul Islam
+- @Rimjhim Dey
 
 ## Contributing
 
